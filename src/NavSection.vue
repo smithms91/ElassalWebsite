@@ -70,7 +70,7 @@ export default {
   name: "NavSection",
   data() {
     return {
-      navOpen: true,
+      navOpen: false,
       toggleDropdown: false,
       toggleAreas: false
     }
